@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+black = "*"
+"black[jupyter]" = "*"
+flake8 = "*"
+isort = "*"
+jupyterlab-code-formatter = "*"
+
+[packages]
+jupyterlab = "*"
+matplotlib = "*"
+numpy = "*"
+
+[requires]
+python_version = "3.10"
