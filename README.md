@@ -2,6 +2,9 @@
 
 Exploring D&amp;D dice probabilities
 
+:warning: **WORK IN PROGRESS**
+
+
 ## Licenses
 
 
