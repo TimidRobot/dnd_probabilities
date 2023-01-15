@@ -2,25 +2,22 @@
 
 Exploring D&amp;D dice probabilities
 
-:warning: **WORK IN PROGRESS**
+
+## Notebooks
+
+- [Phandelver Probabilities
+  (`phandelver_probabilities.ipynb`)](phandelver_probabilities.ipynb)
 
 
-## Licenses
+## Copying
 
+[![CC0 dedication button][cc-zero-png]][cc-zero]
 
-### Code
+[COPYING](COPYING): Dedicated, with all copyright and related and neighboring rights,
+to the public domain worldwide. It is distributed without any warranty ([CC0
+1.0 Universal (CC0 1.0) Public Domain Dedication][cc-zero]).
 
-[`LICENSE`](LICENSE) (Expat/[MIT][mit] License)
+**Attribution is appreciated**, but not required.
 
-[mit]: http://www.opensource.org/licenses/MIT "The MIT License | Open Source Initiative"
-
-
-### Content
-
-[![CC BY-SA 4.0 license button][cc-by-sa-png]][cc-by-sa]
-**Unless otherwise specified,** the content within this repository is licensed
-under a [Creative Commons Attribution-ShareAlike 4.0 International
-License][cc-by-sa].
-
-[cc-by-sa-png]: https://licensebuttons.net/l/by-sa/4.0/88x31.png#floatleft "CC BY-SA 4.0 license button"
-[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License"
+[cc-zero-png]: https://licensebuttons.net/l/zero/1.0/88x31.png#floatleft "CC0 1.0 dedication button"
+[cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/ "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
