@@ -1,12 +1,20 @@
 # dnd_probabilities
 
-Exploring D&amp;D dice probabilities
+Exploring D&D dice probabilities
 
 
 ## Notebooks
 
 - [Phandelver Probabilities
   (`phandelver_probabilities.ipynb`)](phandelver_probabilities.ipynb)
+
+
+## Trademark Notice
+
+Dungeons & Dragons, D&D, their respective logos, and all Wizards titles and
+characters are property of Wizards of the Coast LLC in the U.S.A. and other
+countries. All other trademarks referenced are the property of their respective
+owners.
 
 
 ## Copying
